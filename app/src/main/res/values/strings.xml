@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="item_not_inserted">Try Again! Item is not inserted!!</string>
+    <string name="item_inserted">Item is inserted!</string>
+    <string name="changes_are_not_saved">Re-Try! Changes are not saved !!</string>
+    <string name="leave">Leave...</string>
+    <string name="dont_leave">Don\'t leave...</string>
+    <string name="deleted">Deleted</string>
+    <string name="not_deleted">Not deleted</string>
+    <string name="enter_details">Please Enter all details</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="mail">mailto:</string>
+    <string name="buy_something">Buy few items</string>
+    <string name="add_product_button">Add Product</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="enter_product_quantity">Enter Product Quantity</string>
+    <string name="enter_product_price">Enter Product Price</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="add_product">Add Product(s)</string>
+    <string name="delete">Delete</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_item">Add Item</string>
+    <string name="update_item">Update Item</string>
+    <string name="url">https://www.google.co.in/?gws_rd=ssl#q=</string>
+    <string name="empty">Empty</string>
+    <string name="unknown_query">Unknown query</string>
+</resources>
